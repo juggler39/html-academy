@@ -2,4 +2,5 @@
 HTML-Academy projects
 
 [Sedona](https://juggler39.github.io/html-academy/sedona/).
-[Sedona](https://juggler39.github.io/html-academy/technomart/).
+
+[Technomart](https://juggler39.github.io/html-academy/technomart/).

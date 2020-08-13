@@ -5,6 +5,6 @@
 
 ---
 
-Accomplished <a href="https://juggler39.github.io/html-academy/sedona/">Main page</a> and <a href="https://juggler39.github.io/html-academy/sedona/booking.html">Hotel choice page</a>.
+Accomplished <a href="https://juggler39.github.io/html-academy/sedona/">Main page</a> and <a href="https://juggler39.github.io/html-academy/sedona/hotels.html">Hotel choice page</a>.
 
 ---
